@@ -1,2 +1,2 @@
 # prompt_sharing
-Create share prompts using Next.js 
+Create Share prompts application for Chat GPT using Next.js 
